@@ -22,3 +22,4 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: MuhammadJawadSaeed
+          GENERATE_PREVIEW: false
